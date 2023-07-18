@@ -4,5 +4,5 @@ This is my first project to getting familiar with HTML-CSS code. And a big thank
 - Seperate, divide many objects to group, block, ...
 - Display, resize the contents when people sizing the web.
   
-And at the end! Everythings that I've learnt were shown through this "youtube-clone" project which I created by myself of course only after watching and following carefully SuperSimpleDev's tutorial.
+And at the end! Everythings that I've been learnt were shown through this "youtube-clone" project which I created by myself, of course only after watching and following carefully SuperSimpleDev's tutorial.
 
