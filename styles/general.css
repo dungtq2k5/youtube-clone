@@ -1,0 +1,36 @@
+p {
+  font-family: Roboto, Arial;
+  margin: 0;
+  font-size: 14px;
+}
+
+body {
+  background-color: rgb(237, 237, 237, 0.3);
+  margin: 0;
+  height: 3000px;
+}
+
+.icon-box {
+  position: relative;
+}
+
+.toolkit {
+  font-family: Roboto, Arial;
+  font-size: 14px;
+  background-color: rgb(118, 118, 118);
+  border: hidden;
+  border-radius: 4px;
+  color: white;
+  position: absolute;
+  padding: 8px;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+.icon-box:hover .toolkit {
+  opacity: 1;
+}
+
+

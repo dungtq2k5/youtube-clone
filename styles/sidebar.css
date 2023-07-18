@@ -1,0 +1,41 @@
+.sidebar-sector {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: fixed;
+  width: 80px;
+  top: 56px;
+  bottom: 0;
+  background-color: white;
+  z-index: 100;
+}
+
+.sidebar-box {
+  width: 77px;
+  height: 80px;
+  border: hidden;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+  cursor: pointer;
+  row-gap: 5px;
+}
+
+.icon-box img {
+  width: 24px;
+}
+.sidebar-sector p {
+  font-size: 11px;
+}
+
+.sidebar-box:hover {
+  background-color: rgb(230, 230, 230);
+}
+.sidebar-sector .toolkit {
+  left: 35px;
+  top: 5px;
+}
+
+
