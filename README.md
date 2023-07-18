@@ -1,4 +1,4 @@
-This is my first project to getting familiar with HTML-CSS code. And a big thanks to "SuperSimpleDev" to created an awsome HTML-CSS tutorial for beginner video for people like me!!! Through the tutorial I have learnt so much things like:
+This is my first project to getting familiar with HTML-CSS code. And a big thanks to "SuperSimpleDev" to created an awesome HTML-CSS tutorial for beginner video for people like me!!! Through the tutorial I have learnt so much things like:
 - The way people design UI for a website on the internet.
 - Custom every buttons like padding, coloring and when you hover or click it.
 - Seperate, divide many objects to group, block, ...
